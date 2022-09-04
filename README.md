@@ -1,6 +1,6 @@
 # Craft CMS Dev Environment
 
-Combine the power of Craft CMS and Vite.js with zero configuration setup and incredible fast paced development 😎.
+Combine the power of Craft CMS and Vite.js with zero configuration setup and incredible fast paced development 😎
   
 
 This repository is a fork of the original blueprint with added support for local plugin development. Adjust local plugin path to your needs in the following files:  
