@@ -1,4 +1,4 @@
-name: craft4-ddev-vite-blueprint
+name: craft4-ddev-vite-blueprint-plugindev
 type: php
 docroot: web
 php_version: "8.1"

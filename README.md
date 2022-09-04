@@ -13,7 +13,7 @@ This repository is a fork of the original blueprint with added support for local
 
 1.  ``make install``
 2.  ``make dev``
-3.  open https://craft4-ddev-vite-blueprint.ddev.site
+3.  open https://craft4-ddev-vite-blueprint-plugindev.ddev.site
 
 
 ## Requirements
