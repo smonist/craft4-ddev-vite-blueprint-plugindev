@@ -1,0 +1,6 @@
+version: '3.6'
+services:
+  web:
+    volumes:
+    # change this path to your local plugin directory. if you develop multiple plugins, you can add more volumes here.
+      - "$HOME/ddev-projects/craft-plugins/craft-submariner:/var/www/craft-plugins/craft-submariner/"

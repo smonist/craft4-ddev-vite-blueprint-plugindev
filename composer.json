@@ -47,5 +47,13 @@
 		"pre-install-cmd": "@pre-craft-update",
 		"post-update-cmd": "@post-craft-update",
 		"post-install-cmd": "@post-craft-update"
-	}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"repositories": [
+		{
+			"type": "path",
+			"url": "/var/www/craft-plugins/craft-submariner"
+		}
+	]
 }
