@@ -15,6 +15,9 @@ This repository is a fork of the original blueprint with added support for local
 2.  ``make dev``
 3.  open https://craft4-ddev-vite-blueprint-plugindev.ddev.site
 
+## XDebug & PHPStorm
+https://ddev.readthedocs.io/en/stable/users/debugging-profiling/step-debugging/#phpstorm-debugging-setup  
+TLDR: map project root to /var/www/html (do not map web directory)
 
 ## Requirements
 
